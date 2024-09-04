@@ -1,4 +1,4 @@
-# Stock Price Prediction
+# Stock Price Prediction Model
 
 ## Introduction
 
@@ -39,7 +39,13 @@ The main objective is to predict future stock prices using historical data. This
 
 - **Linear Regression:** Achieved a lower RMSE of 28.37, indicating better performance. Its simplicity worked well for the dataset, capturing essential trends without overfitting.
 
+  ![image](https://github.com/user-attachments/assets/83461096-02e6-4083-9542-9b85760e493b)
+
+
 - **Random Forest Regressor:** Achieved a higher RMSE of 273.24. Despite its strength in handling non-linear relationships, it performed worse in this instance, possibly due to overfitting or complexity not suited for the dataset.
+
+  ![image](https://github.com/user-attachments/assets/36fe671a-a16d-4c0a-826b-291bcfc8ab21)
+
 
 ## How the Code Works
 
